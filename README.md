@@ -27,28 +27,28 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-**waterfall methodology**- Linear and sequential, each phase is completed before moving on. 
+-**waterfall methodology**- Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,changes are hard to incorporate once a phase is complete.
 - Customer feedback comes late, after the product is developed.
 - Testing is done at the end of the development process.
 
-**agile methodology**- Iterative and incremental, with multiple cycles (sprints). 
+-**agile methodology**- Iterative and incremental, with multiple cycles (sprints). 
 - High flexibility, adapts to changing requirements. 
 - Regular customer feedback is incorporated into every sprint. 
 - Testing is continuous and done after each iteration.
  
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-**Software Developer**- developing applications,programs and systems using programming languages and frameworks.
+-**Software Developer**- developing applications,programs and systems using programming languages and frameworks.
  - maintaining and updating software to keep it functional. 
  -collaborating with other team members to ensure best practice when developing software.
  - reporting to the project manager about the progress of the software development.
-**Quality Assurance Engineer**- collaborate with stakeholders to understand and clarify software requirement.
+-**Quality Assurance Engineer**- collaborate with stakeholders to understand and clarify software requirement.
  - create development standards and procedures for the programmers to follow
  -confirm that the software meets the requirement before deployment. 
  -analyse the product to identify bugs and suggest changes to make them more efficient. 
  - develop and execute automation scripts using open source tools.
-**Project Manager** - assembles and lead the software development team.
+-**Project Manager** - assembles and lead the software development team.
  - discuss the project and it's requirement with the client and software developers.
  - create blueprint for the project.
  - tracking and communicating information regarding the project milestone.
@@ -107,17 +107,17 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 Define prompt engineering and discuss its importance in interacting with AI models.
 prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
-**Improved user experience**- Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
-**Increased flexibility**- A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
+-**Improved user experience**- Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
+-**Increased flexibility**- A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
 **developer control**- Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Draw a picture of a person
 Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
-**Clarity**: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
+-**Clarity**: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
 Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
-**Concise**: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
+-**Concise**: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
 
 
 ---
