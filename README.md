@@ -17,16 +17,23 @@ software engineering is a branch of computer science used for developing, testin
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-mastering complexity
-Mastering process
-Mastering machine
+--mastering complexity
+
+--Mastering process
+
+--Mastering machine
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 **planning**- identify the software requirement or purpose and scope.
+
 **requirement analysis**- identify the final user specification. 
+
 **design**- building the framework. 
+
 **coding**- converting software design into tangible code.
+
 **testing**- examine the software for any bugs and glitches
 
 
