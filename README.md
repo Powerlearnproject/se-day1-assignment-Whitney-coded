@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 
 **reliability**- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
@@ -17,11 +18,11 @@ software engineering is a branch of computer science used for developing, testin
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
---mastering complexity
+mastering complexity
 
---Mastering process
+Mastering process
 
---Mastering machine
+Mastering machine
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -51,12 +52,13 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
  
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
--**Software Developer**- developing applications,programs and systems using programming languages and frameworks.
+
+ **Software Developer**- developing applications,programs and systems using programming languages and frameworks.
  - maintaining and updating software to keep it functional. 
  -collaborating with other team members to ensure best practice when developing software.
  - reporting to the project manager about the progress of the software development.
  - 
--**Quality Assurance Engineer**- collaborate with stakeholders to understand and clarify software requirement.
+ **Quality Assurance Engineer**- collaborate with stakeholders to understand and clarify software requirement.
  - create development standards and procedures for the programmers to follow
  -confirm that the software meets the requirement before deployment. 
  -analyse the product to identify bugs and suggest changes to make them more efficient. 
@@ -129,17 +131,21 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
--**Improved user experience**- Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
 
--**Increased flexibility**- A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
+**Improved user experience**- Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
+
+**Increased flexibility**- A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
 
 **developer control**- Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Draw a picture of a person
+
 Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
 
 -**Clarity**: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
