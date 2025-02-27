@@ -26,7 +26,7 @@ Mastering process
 Mastering machine
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+##List and briefly explain the phases of the Software Development Life Cycle.
 
 **planning**- identify the software requirement or purpose and scope.
 
@@ -39,7 +39,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 **testing**- examine the software for any bugs and glitches
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+##Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 **waterfall methodology**- Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,changes are hard to incorporate once a phase is complete.
@@ -52,7 +52,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 - Testing is continuous and done after each iteration.
  
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+##Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
  **Software Developer**- developing applications,programs and systems using programming languages and frameworks.
  - maintaining and updating software to keep it functional. 
@@ -72,9 +72,10 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
  - deliver the complete software to the client and regularly check its performance.
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+##Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 importance:
+
 Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
 
 An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors.
@@ -92,7 +93,7 @@ Change Tracking: Records detailed history of changes, allowing easy analysis of 
 -Branching and Merging: Supports creating branches for new features and merging them back into the main code.
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+##What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 -rapid technological advancement places considerable pressure on software engineers to stay current.
  Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry.
  
@@ -112,7 +113,7 @@ Software Accessibility and Usability - Overly complex software can frustrate or 
 Solution: Use scalable architecture, Emphasize reliability.
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+##Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 **Unit tests**- are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
 
  **Integration tests**- verify that different modules or services used by your application work well together.
@@ -120,7 +121,8 @@ Explain the different types of testing (unit, integration, system, and acceptanc
  System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
 
  -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
-Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
+  Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on 
+  replicating user behaviors. 
 
 - Whether the software meets the needs of the end-user and is ready for deployment.
   
@@ -131,7 +133,7 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+##Define prompt engineering and discuss its importance in interacting with AI models.
 
 prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
@@ -143,7 +145,7 @@ Importance:
 **developer control**- Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+##Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Draw a picture of a person
 
